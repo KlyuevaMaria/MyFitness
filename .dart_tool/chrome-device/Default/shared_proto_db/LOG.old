@@ -1,2 +1,4 @@
-2024/01/23-18:43:06.567 654 Creating DB C:\Users\klyue\AppData\Local\Temp\flutter_tools.a686b59\flutter_tools_chrome_device.648e407d\Default\shared_proto_db since it was missing.
-2024/01/23-18:43:06.573 654 Reusing MANIFEST C:\Users\klyue\AppData\Local\Temp\flutter_tools.a686b59\flutter_tools_chrome_device.648e407d\Default\shared_proto_db/MANIFEST-000001
+2024/01/31-19:00:28.097 40e0 Reusing MANIFEST C:\Users\klyue\AppData\Local\Temp\flutter_tools.368eeb57\flutter_tools_chrome_device.365e8668\Default\shared_proto_db/MANIFEST-000001
+2024/01/31-19:00:28.098 40e0 Recovering log #4
+2024/01/31-19:00:28.098 40e0 Reusing old log C:\Users\klyue\AppData\Local\Temp\flutter_tools.368eeb57\flutter_tools_chrome_device.365e8668\Default\shared_proto_db/000004.log 
+2024/01/31-19:00:28.098 40e0 Delete type=0 #3

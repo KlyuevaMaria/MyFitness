@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 // import 'package:flutter_svg/flutter_svg.dart';
 // import 'package:example/custom_icons.dart';
-
-import 'home.dart';
+// import 'package:example/pages/comments.dart';
+import 'pages/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,10 +25,11 @@ class MyApp extends StatelessWidget {
           canvasColor: Colors.blueAccent[400],
           textTheme: const TextTheme(
               bodyMedium: TextStyle(
-                  fontSize: 36, // высота шрифта 26,
+                  fontSize: 36,
                   fontFamily: "Montserrat",
                   color: Color.fromRGBO(144, 144, 144, 1),
                   fontWeight: FontWeight.bold))),
+      color: const Color.fromRGBO(26, 26, 26, 1),
       home: const MyHomePage(title: 'Home Page'),
     );
   }
